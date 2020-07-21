@@ -2,7 +2,7 @@
 
 Performs Encryption and Decryption of Files with Pub/Private Key on Windows and placed an randomized Ransomnote.
 The Program tries to mimic an more advanced Ransomware-Attack.
-Goal is to develop better Detection mechanism for Detecting the File Encyption Process.
+Goal is to develop better Detection mechanism for Detecting the File Encryption Process.
 
 
 Most Ransomware is easly to Detect and most Ransomware Detection Methods are relying on the following:
@@ -13,10 +13,10 @@ Most Ransomware is easly to Detect and most Ransomware Detection Methods are rel
 
 
 This Project tries to level this up.
-* Randomizes Ransom Note Creation
-* Slows down the Encryption Process
-* Uses Valid File Headers
-* Uses Valid File Extensions
+* Randomizes Ransom Note Creation (Random Image Generation)
+* Slows down the Encryption Process (Try to look like normal User behaviour)
+* Uses Valid File Headers (File Headers of Common File Types)
+* Uses Valid File Extensions (Common File Extensions)
 * Uses Private/Public Key Crypto
 
 
