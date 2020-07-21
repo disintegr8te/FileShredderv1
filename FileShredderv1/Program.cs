@@ -35,7 +35,7 @@ namespace FileShredderNS
             Console.WriteLine(" |     \\  |  |  |_\\  ___/ /        |   Y  |  | \\\\  ___// /_/ / /_/ \\  ___/|  | \\/");
             Console.WriteLine(" \\___  /  |__|____/\\___  /_______  |___|  |__|   \\___  \\____ \\____ |\\___  |__|   ");
             Console.WriteLine("     \\/                \\/        \\/     \\/           \\/     \\/    \\/    \\/       ");
-            Console.WriteLine("Encrypt                                    v1.0 by disintgr8te (Twitter: disintegr8te)");
+            Console.WriteLine("Encrypt                                    v1.0 by disintegr8te (Twitter: disintegr8te)");
             Console.WriteLine();
             Console.WriteLine("For educational purposes only");
             Console.WriteLine();
